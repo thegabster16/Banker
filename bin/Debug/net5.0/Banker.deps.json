@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Capgemini/1.0.0": {
+      "Banker/1.0.0": {
         "runtime": {
-          "Capgemini.dll": {}
+          "Banker.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Capgemini/1.0.0": {
+    "Banker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

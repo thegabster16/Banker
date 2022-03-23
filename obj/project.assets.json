@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabby\\Documents\\Capgemini\\Capgemini.csproj",
-      "projectName": "Capgemini",
-      "projectPath": "C:\\Users\\Gabby\\Documents\\Capgemini\\Capgemini.csproj",
+      "projectUniqueName": "C:\\Users\\Gabby\\Documents\\Capgemini\\Banker.csproj",
+      "projectName": "Banker",
+      "projectPath": "C:\\Users\\Gabby\\Documents\\Capgemini\\Banker.csproj",
       "packagesPath": "C:\\Users\\Gabby\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Gabby\\Documents\\Capgemini\\obj\\",
       "projectStyle": "PackageReference",

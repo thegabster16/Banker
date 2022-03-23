@@ -1,0 +1,16 @@
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.exe
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.deps.json
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.runtimeconfig.json
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.runtimeconfig.dev.json
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.dll
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\ref\Capgemini.dll
+C:\Users\Gabby\Documents\Capgemini\bin\Debug\net5.0\Capgemini.pdb
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.csproj.AssemblyReference.cache
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.AssemblyInfoInputs.cache
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.AssemblyInfo.cs
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.csproj.CoreCompileInputs.cache
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.dll
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\ref\Capgemini.dll
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.pdb
+C:\Users\Gabby\Documents\Capgemini\obj\Debug\net5.0\Capgemini.genruntimeconfig.cache

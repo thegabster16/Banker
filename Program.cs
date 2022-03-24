@@ -117,9 +117,12 @@ namespace Banker
                                     Console.WriteLine(h.Substring(h.IndexOf(' ') + 1));
                                 }
                                 break;
-                            default:
+                            case "5":
                                 cont = false;
                                 Console.WriteLine("Program will now exit. Have a great day! :) ");
+                                break;
+                            default:
+                                Console.WriteLine("Invalid number. Please try again.");
                                 break;
                         }
                     }  
